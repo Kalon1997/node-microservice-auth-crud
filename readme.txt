@@ -19,7 +19,7 @@ cd backend
 npm install
 npm start
 ======================
-database uri is '
+database uri is "mongodb://localhost:27017/app"  - local mongodb database in mongodb compass
 
 
 
